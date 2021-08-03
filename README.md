@@ -1,3 +1,2 @@
-# Tutorials
-Some tutorials
-* Tutorial Queue: https://github.com/DD737-Productions/Tutorials/tree/Queue
+# Generics Tutorial
+In this tutorial you will learn how to write you own System.Collections.Generic.Queue!
