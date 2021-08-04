@@ -1,2 +1,2 @@
 # Generics Tutorial
-In this tutorial you will learn how to write you own System.Collections.Generic.Queue!
+In this tutorial you will learn how to write your own System.Collections.Generic.Queue!
